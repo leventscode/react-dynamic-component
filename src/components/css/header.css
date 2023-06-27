@@ -1,0 +1,16 @@
+header {
+   background-color: #ffffff;
+   height: 90px;
+   border-bottom: 3px solid #eaeaea;
+   margin-bottom: 45px;
+}
+
+#logo {
+   font-family: 'Vollkorn', serif;
+   font-weight: 900;
+   font-size: 41px;
+   line-height: 90px;
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+}
